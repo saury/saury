@@ -30,19 +30,21 @@ interests:
 blog: https://blog.jin.pub
 ```
 
-### 🔭 Current Focus
+### 🔭 What I'm Working On
 
-- 🏗️ Building enterprise-scale **API management systems**
-- 🤖 Experimenting with **AI-powered development** workflows
-- 🏠 Tinkering with **Home Assistant** and smart home integrations
-- 📡 Creating RSS feeds and automation tools
+- 📡 Building **RSS feed generators** and automation tools for content aggregation
+- 🏠 Developing **Home Assistant** integrations and smart home solutions
+- 🤖 Creating **automation bots** for daily workflow improvements
+- 💼 Contributing to enterprise **API architecture** and development practices at work
 
-### 💡 Notable Work
+### 💡 Personal Projects
 
-- **API Architecture**: Contributing to [api-matters](https://github.com/LEGO/api-matters) - API principles & best practices (87⭐)
-- **Engineering Guidelines**: Maintaining [architecture-matters](https://github.com/LEGO/architecture-matters) - Architectural decision records (61⭐)
-- **Agentic Development**: Exploring [Agentic-development-playbook](https://github.com/LEGO/Agentic-development-playbook) (9⭐)
-- **Home Automation**: Built [raspberry-pi-wifi-presence-with-mac-address](https://github.com/saury/raspberry-pi-wifi-presence-with-mac-address) for HomeKit integration
+- 🎯 **[awardRotate](https://github.com/saury/awardRotate)** (8⭐) - Interactive lottery wheel component built with vanilla JavaScript
+- 🏠 **[raspberry-pi-wifi-presence-with-mac-address](https://github.com/saury/raspberry-pi-wifi-presence-with-mac-address)** (2⭐) - WiFi presence detection for HomeKit using Raspberry Pi
+- 📡 **[rss-feeder](https://github.com/saury/rss-feeder)** - Convert Ximalaya audio albums to Podcast RSS feeds with Docker support
+- 🤖 **[xTrendingRSS](https://github.com/saury/xTrendingRSS)** - Automated RSS feed generator for trending topics (actively maintained)
+- 📚 **[ngPresentation-flex](https://github.com/saury/ngPresentation-flex)** (1⭐) - Interactive presentation on CSS Flexbox built with impress.js
+- 🏡 **[ha_config](https://github.com/saury/ha_config)** - My Home Assistant configuration and custom integrations
 
 ---
 
@@ -89,14 +91,14 @@ blog: https://blog.jin.pub
 
 ---
 
-## 🌱 Recent Projects
+## 🚀 Recent Activity
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [api-matters-linter](https://github.com/LEGO/api-matters-linter) | API linter for LEGO Group API Guidelines | TypeScript | ⭐ 7 |
-| [xTrendingRSS](https://github.com/saury/xTrendingRSS) | RSS feed generator for trending content | Python | 🆕 |
-| [PandaBot](https://github.com/saury/PandaBot) | Automation bot for daily tasks | - | 🤖 |
-| [rss-feeder](https://github.com/saury/rss-feeder) | Convert Ximalaya albums to Podcast RSS | JavaScript | 📡 |
+| Repository | Description | Language | Status |
+|------------|-------------|----------|--------|
+| [xTrendingRSS](https://github.com/saury/xTrendingRSS) | RSS feed generator for trending topics | Python | 🆕 Active |
+| [PandaBot](https://github.com/saury/PandaBot) | Automation bot for daily tasks | - | 🤖 In Progress |
+| [rss-feeder](https://github.com/saury/rss-feeder) | Convert Ximalaya albums to Podcast RSS | JavaScript | 📡 Maintained |
+| [awardRotate](https://github.com/saury/awardRotate) | Interactive lottery wheel component | HTML/JS | ⭐ 8 stars |
 
 ---
 
